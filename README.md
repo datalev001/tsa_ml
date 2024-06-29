@@ -1,1 +1,5 @@
-# tsa_ml
+# A Generalized Machine Learning Framework for Time Series Forecasting
+Adapting Diverse Models to Transform Transactional Data for Predictive Accuracy
+Time series forecasting is fundamental to predictive modeling, drawing significant interest from data scientists. Its applications range from supply chain demand prediction to financial market forecasting. Unlike traditional models, time series forecasting models can be unstable due to the inherent variability of time.
+In a recent post, Time Series Forecasting: A Comparative Analysis of SARIMAX, RNN, LSTM, Prophet, and Transformer, I conducted a comparative analysis of various time series forecasting methods. While I should have included a machine-learning approach, the post became too lengthy. Therefore, I am presenting this paper today to address that gap.
+In this post, I'll keep exploring time-series models, how they work, and why I proposed a generalized machine-learning framework for forecasting transactional data using feature engineering. While applying machine learning to time series forecasting is not new, the generalized framework I propose aims to address practical time series forecasting challenges across various scenarios.
